@@ -515,6 +515,10 @@ a {
 .coppy a{
     color: #fff;
 }
+.coppy img{
+    width: 50px;
+    border-radius: 50%;
+}
 
 
 .mobile{
