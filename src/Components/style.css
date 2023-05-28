@@ -732,3 +732,8 @@ a {
 .sectt-2 a:hover{
     text-decoration: none;
 }
+
+.grow img{
+    width: 50px;
+    border-radius: 50%;
+}
