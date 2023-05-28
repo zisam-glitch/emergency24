@@ -510,7 +510,12 @@ a {
     padding: 30px;
     font-size: 17px;
     font-family: 'Lato', sans-serif;
+    line-height: 35px;
 }
+.coppy a{
+    color: #fff;
+}
+
 
 .mobile{
     display: none;

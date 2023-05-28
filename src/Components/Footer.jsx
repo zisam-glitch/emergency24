@@ -29,7 +29,7 @@ function Footer() {
 
       <div className="coppy">
         <hr />
-        <h5>Copyright 2023 emergency247dentist | Website <a href="https://instagram.com/grow_with_sayed?igshid=MzRlODBiNWFlZA=="> Build By Sayed</a></h5>
+        <h5>Copyright 2023 emergency247dentist | Website <b><a href="https://instagram.com/grow_with_sayed?igshid=MzRlODBiNWFlZA=="> Build By Sayed</a></b></h5>
       </div>
     </section>
   );
