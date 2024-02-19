@@ -36,12 +36,12 @@ function Header() {
               </li>
               <li class="nav-item">
                 <a class="nav-links" href="#contact">
-                  Contact
+                  Contact Us
                 </a>
               </li>
               <li class="nav-item">
-                <a id="callnow" class="nav-links" href="tel:0113 322 8354">
-                  Call Emergency Hotline: 0113 322 8354
+                <a id="callnow" class="nav-links" href="tel:08000996375">
+                  Call Emergency Hotline: 0800 099 6375
                 </a>
               </li>
             </ul>
